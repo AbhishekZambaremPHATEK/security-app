@@ -1,0 +1,57 @@
+#KeyText{
+    height: 56px;
+    width: 536px;
+}
+
+.cursorpointer{
+    cursor: pointer;
+}
+
+#tablecell{
+    height: 50px !important;
+    
+    font-family: system-ui !important;
+    font-size: 15px !important;
+}
+
+#toolbar{
+    display: none;
+}
+
+
+.tableHeader{
+    font-family: system-ui;
+    font-size: 15px;
+}
+
+#fileTypeID{
+margin-top: 12px !important;
+}
+
+#serchReport{
+    display: inline;
+}
+
+#datePeaker2{
+    display: inline;
+}
+
+#datePeaker1{
+    display: inline;
+}
+
+#tablestyleID{
+    margin-top: 10px;
+}
+.tableRowPadding{
+    padding: 10px !important;
+}
+
+.tableHead2{
+    display: inline-flex;
+    float: right;
+}
+
+.tableHead1{
+    display: inline-flex;
+}

@@ -1,0 +1,62 @@
+#btnStyle{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    cursor: pointer;
+}
+
+.editAnddelet{
+    display: inline-block;
+}
+
+.checkApplication{
+    cursor: pointer;
+    font-size: 0.875rem !important;
+}
+
+.tableHeader{
+    font-family: system-ui;
+    font-size: 15px;
+}
+
+.createApp{
+    cursor: pointer;
+}
+
+#deleteTeam{
+    margin: 0px 20px 0px 0px;
+}
+
+#lodingBar{
+    margin: 150px 0px 0px 432px
+}
+.tableHead2{
+    display: inline-flex;
+    float: right;
+}
+.tableHead1{
+    display: inline-flex;
+}
+#tablestyleID{
+    margin-top: 10px;
+}
+
+
+#toolbar{
+    display: none;
+}
+
+
+#tablecell{
+    height: 50px !important;
+    
+    font-family: system-ui !important;
+    font-size: 15px !important;
+}
+/* .MuiTablePagination-selectRoot{
+    display: none !important;   
+}
+
+.MuiTablePagination-selectRoot{
+    display: none !important;
+} */

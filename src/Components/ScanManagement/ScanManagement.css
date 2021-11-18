@@ -1,0 +1,42 @@
+#KeyText{
+    height: 56px;
+    width: 536px;
+}
+
+.cursorpointer{
+    cursor: pointer;
+}
+
+#tablecell{
+    height: 50px !important;
+    
+    font-family: system-ui !important;
+    font-size: 15px !important;
+}
+
+#toolbar{
+    display: none;
+}
+
+
+.tableHeader{
+    font-family: system-ui;
+    font-size: 15px;
+    /* background-color: antiquewhite; */
+}
+
+#tablestyleID{
+    margin-top: 10px;
+}
+.tableRowPadding{
+    padding: 10px !important;
+}
+
+#datePeaker{
+    margin-top: 24px;
+
+}
+
+#scanTypes{
+    margin-top: 24px;
+}

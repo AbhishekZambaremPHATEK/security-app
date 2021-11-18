@@ -1,0 +1,26 @@
+.myAccordians{
+    width: 100% !important
+}
+
+.Accordian{
+    margin-top: 5px;
+}
+
+.MuiPaper-elevation2{
+    width: 100% !important 
+}
+
+
+#lodingBar{
+    margin: 150px 0px 0px 432px
+}
+.tableHead2{
+    display: inline-flex;
+    float: right;
+}
+.tableHead1{
+    display: inline-flex;
+}
+#tablestyleID{
+    margin-top: 10px;
+}
