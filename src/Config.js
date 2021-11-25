@@ -1,6 +1,6 @@
 let config = {
 
-    apiUrl: 'http://192.168.2.112:5001/',
-    commonapi: 'http://192.168.2.112/',
+    apiUrl: 'https://192.168.2.112:5001/',
+    commonapi: 'https://192.168.2.112/',
 };
 export default config
